@@ -10,10 +10,11 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** from **Istanbul, Turkey**, currently in my final year of **Software Engineering at Doğuş University**.  
+I'm a **Software Engineer** from **Istanbul, Turkey**.  
 My primary focus is **backend systems, cloud infrastructure, and DevOps practices**. I design scalable APIs, build clean architectures, and deploy production-ready services using modern cloud-native tools.
 
 Alongside backend engineering, I also develop **AI-powered applications** such as assistants, recommendation systems, and computer vision tools.
+
 
 - 🎯 Focused on **Backend, Cloud, and Platform Engineering**
 - ☁️ Exploring **Kubernetes, CI/CD, and cloud infrastructure**
